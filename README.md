@@ -2,11 +2,12 @@
 
 A simple inventory management system for Sunglasses Warehouse using sequelize CRUD methods. Create, edit, delete products. The inventory will have the following criterias: Product ID, Product Name, Product Details(Gender, Color, Materials,Shape, Features etc), Brand, & Units.
 
-Try it [here]("https://stormy-shore-25459.herokuapp.com/")!
+link: https://stormy-shore-25459.herokuapp.com
 
 Login as warehouse manager using email--> warehouse1@gmail.com , password--> 123456
 
 Login as store manager using email--> store1@gmail.com , password--> 123456
+
 
 ![](/client/public/assets/image/warehouseConectRepo.PNG)
 
