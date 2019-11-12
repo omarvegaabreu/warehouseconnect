@@ -9,7 +9,7 @@ Login as warehouse manager using email--> warehouse1@gmail.com , password--> 123
 Login as store manager using email--> store1@gmail.com , password--> 123456
 
 
-![](/client/public/assets/image/warehouseConectRepo.PNG)
+![](/public/assets/image/warehouseConectRepo.PNG)
 
 ## Built With
 
